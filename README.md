@@ -1,2 +1,2 @@
 # SVMagicTrainer
-This project demonstrates the implementation of a machine learning algorithm, Support Vector Machine(SVM), to train and subsequently test a dataset containing age and salary of 400 people and to estimate who will purchase a car. A confusion matrix and accuracy score is also created.
+This project showcases the implementation of a Support Vector Machine (SVM) algorithm to train and test a dataset containing age and salary information of 400 individuals. The primary goal is to estimate whether a person is likely to purchase a car based on their demographic information.
